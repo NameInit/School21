@@ -1,0 +1,13 @@
+         55947 function calls (54844 primitive calls) in 0.961 seconds
+
+   Ordered by: cumulative time
+   List reduced from 1109 to 5 due to restriction <5>
+
+   ncalls  tottime  percall  cumtime  percall filename:lineno(function)
+        1    0.000    0.000    0.961    0.961 /home/ilya/Рабочий стол/s21/DS_Bootcamp.Day03.ID_886513-1/src/ex04/financial.py:6(get_financial_data)
+        1    0.000    0.000    0.958    0.958 /home/ilya/Рабочий стол/s21/DS_Bootcamp.Day03.ID_886513-1/src/ex00/bryenmar/lib/python3.12/site-packages/yfinance/ticker.py:224(financials)
+        1    0.000    0.000    0.958    0.958 /home/ilya/Рабочий стол/s21/DS_Bootcamp.Day03.ID_886513-1/src/ex00/bryenmar/lib/python3.12/site-packages/yfinance/ticker.py:200(income_stmt)
+        1    0.000    0.000    0.958    0.958 /home/ilya/Рабочий стол/s21/DS_Bootcamp.Day03.ID_886513-1/src/ex00/bryenmar/lib/python3.12/site-packages/yfinance/base.py:427(get_income_stmt)
+        1    0.000    0.000    0.948    0.948 /home/ilya/Рабочий стол/s21/DS_Bootcamp.Day03.ID_886513-1/src/ex00/bryenmar/lib/python3.12/site-packages/yfinance/scrapers/fundamentals.py:54(get_income_time_series)
+
+
